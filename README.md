@@ -11,6 +11,7 @@ My name is Huy Gia. I am currently pursuing a B.Sc. degree. I am interested in t
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CisMine&theme=radical&hide_border=false)<br/>
 
 
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
 
