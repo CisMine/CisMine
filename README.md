@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Huy Gia. I am currently pursuing a B.Sc. degree. I am interested in the following topics: Deep Learning in Computer Vision, Parallel Programming With Cuda.<br>
+My name is Huy Gia. I am currently pursuing a B.Sc. degree, Majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in Computer Vision, Parallel Programming With Cuda.<br>
 ## 📫 How to reach me: 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/CisMine/)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white) Medium](https://medium.com/@giahuy04/)   
