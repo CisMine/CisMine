@@ -2,7 +2,7 @@
 My name is Huy Gia. I am currently pursuing a B.Sc. degree, Majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in Computer Vision, Parallel Programming With Cuda.<br>
 ## 📫 How to reach me: 
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/CisMine/)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white) Medium](https://medium.com/@giahuy04/)  ![11a38b08-a914-441c-8f5a-4f9fe4fe567e][![Viblo](https://github.com/CisMine/CisMine/assets/122800932/e1fe79d2-5b7f-4c25-8b16-39b1aa6699b1) Viblo]
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/CisMine/)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white) Medium](https://medium.com/@giahuy04/)  ![11a38b08-a914-441c-8f5a-4f9fe4fe567e][(https://github.com/CisMine/CisMine/assets/122800932/e1fe79d2-5b7f-4c25-8b16-39b1aa6699b1) [!Viblo]
 
 
 # 💻Tech Stack
