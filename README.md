@@ -12,4 +12,4 @@ My name is Huy Gia. I am currently pursuing a B.Sc. degree, Majoring in Artifici
 
 
 
-![11a38b08-a914-441c-8f5a-4f9fe4fe567e](https://github.com/CisMine/CisMine/assets/122800932/3dd60949-4f9c-4c31-a549-09529adecf3f)
+![11a38b08-a914-441c-8f5a-4f9fe4fe567e](https://github.com/CisMine/CisMine/assets/122800932/44da12af-253f-45f5-8dcc-27978d543373)
