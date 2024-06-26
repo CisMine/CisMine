@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Gia Huy. I am currently pursuing a B.Sc. degree, Majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in Computer Vision, Parallel Programming With Cuda.
 
-I'm interested in joining projects that involve CUDA optimization for image processing and deep learning. Feel free to reach out to me with any relevant opportunities.<br>
+I'm interested in joining projects that involve CUDA optimization for image processing and deep learning.<br>
 
 - 📫 How to reach me **ngogiahuy20012004@gmail.com**
   
