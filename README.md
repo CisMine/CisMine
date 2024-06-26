@@ -17,14 +17,27 @@ I'm interested in joining projects that involve CUDA optimization for image proc
 
 
 
-
-
-
-
 # 📊GitHub Stats :
 ![Huy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CisMine&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
 
+<a href="https://github.com/CisMine/Parallel-Computing-Cuda-C/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CisMine&repo=Parallel-Computing-Cuda-C&theme=dracula" />
+</a>
 
+<a href="https://github.com/CisMine/Guide-NVIDIA-Tools/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CisMine&repo=Guide-NVIDIA-Tools&theme=highcontrast" />
+</a>  
 
+<a href="https://github.com/CisMine/Setup-as-Cuda-programmers/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CisMine&repo=Setup-as-Cuda-programmers&theme=cobalt" />
+</a> 
+
+<a href="https://github.com/CisMine/Cuda-image-processing/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CisMine&repo=Cuda-image-processing&theme=gruvbox" />
+</a>
