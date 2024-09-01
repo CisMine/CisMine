@@ -41,3 +41,8 @@ I'm interested in joining projects that involve CUDA optimization for image proc
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CisMine&repo=Cuda-image-processing&theme=gruvbox" />
 </a>
+
+<a href="https://github.com/CisMine/GPU-in-ML-DL/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CisMine&repo=GPU in ML-DL&theme=highcontrast" />
+</a>
