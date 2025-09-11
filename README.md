@@ -47,7 +47,4 @@ I'm interested in joining projects that involve CUDA optimization for image proc
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CisMine&repo=GPU-in-ML-DL&theme=onedark" />
 </a>
 
-<a href="https://github.com/CisMine/Violence-Recognition/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CisMine&repo=Violence-Recognition&theme=synthwave" />
-</a>
+
