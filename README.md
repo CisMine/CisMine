@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Gia Huy. I am currently pursuing a B.Sc. degree, Majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in Computer Vision, Parallel Programming With Cuda.
+My name is Gia Huy. My major is Artificial Intelligence. I am interested in the following topics: Deep Learning in Computer Vision, Parallel Programming With Cuda.
 
 I'm interested in joining projects that involve CUDA optimization for image processing and deep learning.<br>
 
